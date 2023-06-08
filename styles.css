@@ -1,0 +1,84 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2f3e46;
+    color: #ffffff;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    overflow: hidden;
+}
+
+.title {
+    margin-bottom: 0px;
+}
+
+.colored-title {
+    color: #84a98c; 
+    margin: 0 auto 0 auto;
+    border-bottom: 3px solid #84a98c;
+    max-width: 260px;
+}
+
+.sub-text {
+    font-size: 20px;
+}
+
+#password-length {
+    max-width: 70px;
+    margin: 0 auto 20px auto;
+    background: #84a98c;
+    border-radius: 15px;
+    padding: 3px 10px 3px;
+    font-size: 17px;
+} 
+
+#password-length span#number {
+    padding: 0 7px 0 7px;
+    border-right: 1px solid #a5c7ac;
+    border-left: 1px solid #a5c7ac;
+}
+
+#generate-btn {
+    font-family: 'Red Hat Display', sans-serif;
+    color: #ffffff;
+    background: #84a98c;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 15px 5px;
+    font-size: 17px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.output-section {
+    width: 160px;
+    height: 20px;
+    background: #485a63;
+    color: #84a98c;
+    margin: 30px 15px 0 0;
+    padding: 10px 20px 10px;
+    border-radius: 15px;
+}
+
+#copy-btn {
+    font-family: 'Red Hat Display', sans-serif;
+    margin: 30px 0 0 0;
+    height: 25px;
+    width: 60px;
+    border: none;
+    border-radius: 15px;
+    color: #ffffff;
+    background: #84a98c;
+    font-size: 15px;
+}
