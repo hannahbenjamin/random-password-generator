@@ -10,5 +10,5 @@ Clipboard integration: Provides a convenient option to copy to clipboard for eas
 
 Responsive design: Ensures compatibility on various devices, from desktops to phones.
 
-# Screenshot
+# UI
 <img width="1440" alt="Screenshot of program in a web browser" src="https://github.com/hannahbenjamin/random-password-generator/assets/134002501/a5a12598-740d-4517-814c-3d1fd96afcd3">
